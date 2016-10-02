@@ -1,4 +1,4 @@
-# Unity_horror_game
+# Unity-horror-game
 A group project of my course
 
 This is my course's group project and I'm in charge of the coding task and object game logic implementation.  
